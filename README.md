@@ -6,9 +6,9 @@ This is the codebase for my personal portfolio website, developed as part of the
 
 The portfolio website is deployed on Vercel. You can view the live site here:
 
-[Jude's Portfolio Website](https://portfolio-nine-lovat-64.vercel.app/)
+[Jude's Portfolio Website](https://judedotdev.vercel.app/)
 
-[https://portfolio-nine-lovat-64.vercel.app/](https://portfolio-nine-lovat-64.vercel.app/)
+[https://judedotdev.vercel.app/](https://judedotdev.vercel.app/)
 
 ## PLP August Cohort Portfolio Challenge
 
